@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Flask specific
+instance/
+*.pyc
+.env
+
+# Virtual Environment
+venv/
+
+# JetBrains IDE
+.idea/
