@@ -1,3 +1,5 @@
+A web application created using Flask on backend and React JS on frontend. There are 2 type of users: admin and client. There are 2 types of users: admin and client. The customer can select a check-in and check-out date, choose an available destination and make reservations. The administrator can add, edit, delete destinations and view booking statistics for each destination. 
+
 ![image](https://github.com/DavidRebeca/Travel-Universe-Frontend/assets/96259420/cbbad926-329a-41af-aea2-c25abdc83623)![![image](https://github.com/DavidRebeca/Travel-Universe-Frontend/assets/96259420/1f100975-c432-4a73-92cf-2a47b460d4b5)
 ![image](https://github.com/DavidRebeca/Travel-Universe-Frontend/assets/96259420/fca2e044-4261-4d61-bef7-219fce339126)
 ![image](https://github.com/DavidRebeca/Travel-Universe-Frontend/assets/96259420/48bcc7e2-ca16-4dc0-abe6-add446f42232)
